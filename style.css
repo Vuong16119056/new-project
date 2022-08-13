@@ -1,0 +1,16 @@
+body {
+    background-color: #ffcbb9;
+}
+#pop-up {
+    width: 700px;
+    height: 400px;
+    background-color: #ffffff;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+
+}
+#pop-up h1{
+
+    color: #000;
+}
